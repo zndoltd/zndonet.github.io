@@ -1,2 +1,2 @@
-# zndonet.github.io
-zndo.net hexo
+# http://zndo.net
+
